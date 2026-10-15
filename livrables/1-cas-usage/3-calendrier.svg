@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="416" viewBox="0 0 1000 416" font-family="Arial, Helvetica, sans-serif" fill="#222">
+  <rect width="1000" height="416" fill="#fff"/>
+  <text x="40" y="48" font-size="24" font-weight="bold">Learn@Home — Page de calendrier</text>
+  <text x="40" y="76" font-size="14" fill="#666">Diagramme de cas d'usage</text>
+  <rect x="270" y="100" width="460" height="240" rx="10" fill="none" stroke="#C9485B" stroke-width="2"/>
+  <text x="500" y="122" text-anchor="middle" font-size="14" fill="#C9485B">Site Learn@Home</text>
+  <line x1="140" y1="226.0" x2="285" y2="240.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="226.0" x2="715" y2="240.0" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="500" cy="240.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
+  <text x="500" y="245.0" text-anchor="middle" font-size="15">Consulter ses événements et rendez-vous</text>
+
+  <g stroke="#333" stroke-width="2" fill="none">
+    <circle cx="110" cy="198.0" r="14" fill="#fff"/>
+    <line x1="110" y1="212.0" x2="110" y2="250.0"/>
+    <line x1="88" y1="226.0" x2="132" y2="226.0"/>
+    <line x1="110" y1="250.0" x2="92" y2="282.0"/>
+    <line x1="110" y1="250.0" x2="128" y2="282.0"/>
+  </g>
+  <text x="110" y="308.0" text-anchor="middle" font-size="17" font-weight="bold">Élève</text>
+
+  <g stroke="#333" stroke-width="2" fill="none">
+    <circle cx="890" cy="198.0" r="14" fill="#fff"/>
+    <line x1="890" y1="212.0" x2="890" y2="250.0"/>
+    <line x1="868" y1="226.0" x2="912" y2="226.0"/>
+    <line x1="890" y1="250.0" x2="872" y2="282.0"/>
+    <line x1="890" y1="250.0" x2="908" y2="282.0"/>
+  </g>
+  <text x="890" y="308.0" text-anchor="middle" font-size="17" font-weight="bold">Bénévole</text>
+  <text x="40" y="380" font-size="14" fill="#444">• Ajout et suppression d&#x27;un événement : à confirmer avec Learn@Home.</text>
+</svg>

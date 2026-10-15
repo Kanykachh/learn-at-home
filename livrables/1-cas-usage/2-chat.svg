@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="564" viewBox="0 0 1000 564" font-family="Arial, Helvetica, sans-serif" fill="#222">
+  <rect width="1000" height="564" fill="#fff"/>
+  <text x="40" y="48" font-size="24" font-weight="bold">Learn@Home — Page de chat</text>
+  <text x="40" y="76" font-size="14" fill="#666">Diagramme de cas d'usage</text>
+  <rect x="270" y="100" width="460" height="388" rx="10" fill="none" stroke="#C9485B" stroke-width="2"/>
+  <text x="500" y="122" text-anchor="middle" font-size="14" fill="#C9485B">Site Learn@Home</text>
+  <line x1="140" y1="300.0" x2="285" y2="191.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="300.0" x2="715" y2="191.0" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="500" cy="191.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
+  <text x="500" y="196.0" text-anchor="middle" font-size="15">Envoyer et recevoir des messages instantanés</text>
+  <line x1="140" y1="300.0" x2="285" y2="273.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="300.0" x2="715" y2="273.0" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="500" cy="273.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
+  <text x="500" y="278.0" text-anchor="middle" font-size="15">Consulter l&#x27;historique des conversations</text>
+  <line x1="140" y1="300.0" x2="285" y2="355.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="300.0" x2="715" y2="355.0" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="500" cy="355.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
+  <text x="500" y="360.0" text-anchor="middle" font-size="15">Ajouter un contact</text>
+  <line x1="140" y1="300.0" x2="285" y2="437.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="300.0" x2="715" y2="437.0" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="500" cy="437.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
+  <text x="500" y="442.0" text-anchor="middle" font-size="15">Supprimer un contact</text>
+
+  <g stroke="#333" stroke-width="2" fill="none">
+    <circle cx="110" cy="272.0" r="14" fill="#fff"/>
+    <line x1="110" y1="286.0" x2="110" y2="324.0"/>
+    <line x1="88" y1="300.0" x2="132" y2="300.0"/>
+    <line x1="110" y1="324.0" x2="92" y2="356.0"/>
+    <line x1="110" y1="324.0" x2="128" y2="356.0"/>
+  </g>
+  <text x="110" y="382.0" text-anchor="middle" font-size="17" font-weight="bold">Élève</text>
+
+  <g stroke="#333" stroke-width="2" fill="none">
+    <circle cx="890" cy="272.0" r="14" fill="#fff"/>
+    <line x1="890" y1="286.0" x2="890" y2="324.0"/>
+    <line x1="868" y1="300.0" x2="912" y2="300.0"/>
+    <line x1="890" y1="324.0" x2="872" y2="356.0"/>
+    <line x1="890" y1="324.0" x2="908" y2="356.0"/>
+  </g>
+  <text x="890" y="382.0" text-anchor="middle" font-size="17" font-weight="bold">Bénévole</text>
+  <text x="40" y="528" font-size="14" fill="#444">• Chaque message affiche la photo de l&#x27;expéditeur, l&#x27;heure d&#x27;envoi et s&#x27;il a été lu.</text>
+</svg>
