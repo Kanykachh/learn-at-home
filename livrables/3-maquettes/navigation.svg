@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="Nunito, Arial, sans-serif">
+  <rect width="1200" height="640" fill="#FFFFFF"/>
+  <text x="40" y="54" font-size="26" fill="#1E3A5F" font-weight="700">Learn@Home — Navigation entre les pages</text>
+  <defs><marker id="fleche" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#1E3A5F"/></marker></defs>
+  <rect x="40" y="260" width="200" height="80" rx="14" fill="#FDF1D6" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="140.0" y="298.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Connexion</text>
+  <text x="140.0" y="320.0" font-size="12" fill="#6B7280" text-anchor="middle">seule page publique</text>
+  <rect x="40" y="110" width="200" height="70" rx="14" fill="#FAF7F2" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="140.0" y="143.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Mot de passe oublié</text>
+  <text x="140.0" y="165.0" font-size="12" fill="#6B7280" text-anchor="middle">fenêtre sur la connexion</text>
+  <rect x="40" y="420" width="200" height="70" rx="14" fill="#FAF7F2" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="140.0" y="453.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Création de compte</text>
+  <text x="140.0" y="475.0" font-size="12" fill="#6B7280" text-anchor="middle">lien depuis la connexion</text>
+  <line x1="140" y1="260" x2="140" y2="184" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
+  <line x1="140" y1="340" x2="140" y2="416" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
+  <rect x="420" y="260" width="220" height="80" rx="14" fill="#E6EDF5" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="530.0" y="298.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Tableau de bord</text>
+  <text x="530.0" y="320.0" font-size="12" fill="#6B7280" text-anchor="middle">page principale</text>
+  <line x1="240" y1="300" x2="416" y2="300" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
+  <rect x="255.0" y="289.0" width="146.0" height="22" rx="11" fill="#FFFFFF"/>
+  <text x="328.0" y="304.0" font-size="12" fill="#6B7280" text-anchor="middle">identifiants valides</text>
+  <rect x="860" y="120" width="220" height="70" rx="14" fill="#E6EDF5" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="970.0" y="153.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Chat</text>
+  <text x="970.0" y="175.0" font-size="12" fill="#6B7280" text-anchor="middle">messages et contacts</text>
+  <rect x="860" y="270" width="220" height="70" rx="14" fill="#E6EDF5" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="970.0" y="303.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Calendrier</text>
+  <text x="970.0" y="325.0" font-size="12" fill="#6B7280" text-anchor="middle">événements, rendez-vous</text>
+  <rect x="860" y="420" width="220" height="70" rx="14" fill="#E6EDF5" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="970.0" y="453.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Tâches</text>
+  <text x="970.0" y="475.0" font-size="12" fill="#6B7280" text-anchor="middle">liste, ajout, suppression</text>
+  <line x1="640" y1="285" x2="856" y2="155" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
+  <rect x="688.0" y="209.0" width="120.0" height="22" rx="11" fill="#FFFFFF"/>
+  <text x="748.0" y="224.0" font-size="12" fill="#6B7280" text-anchor="middle">compteur non lus</text>
+  <line x1="640" y1="300" x2="856" y2="305" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
+  <rect x="668.5" y="291.5" width="159.0" height="22" rx="11" fill="#FFFFFF"/>
+  <text x="748.0" y="306.5" font-size="12" fill="#6B7280" text-anchor="middle">« Voir le calendrier »</text>
+  <line x1="640" y1="315" x2="856" y2="455" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
+  <rect x="655.5" y="374.0" width="185.0" height="22" rx="11" fill="#FFFFFF"/>
+  <text x="748.0" y="389.0" font-size="12" fill="#6B7280" text-anchor="middle">« Voir toutes les tâches »</text>
+  <rect x="420" y="540" width="660" height="64" rx="12" fill="#FAF7F2"/>
+  <text x="440" y="568" font-size="14" fill="#1F2937">Menu présent sur toutes les pages connectées : barre latérale sur ordinateur,</text>
+  <text x="440" y="590" font-size="14" fill="#1F2937">barre en bas de l&#x27;écran sur mobile. Il mène aux quatre pages à tout moment.</text>
+  <text x="40" y="600" font-size="13" fill="#6B7280">Sans connexion, toute page renvoie vers la connexion.</text>
+</svg>

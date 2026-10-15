@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" font-family="Nunito, Arial, sans-serif">
+  <rect width="390" height="844" fill="#FAF7F2"/>
+  <rect x="0" y="0" width="390" height="96" rx="0" fill="#1E3A5F"/>
+  <path d="M28.32 51.72 Q28.32 46 33.0 46 Q37.68 46 37.68 51.72" fill="none" stroke="#F4B942" stroke-width="2.08"/>
+  <rect x="22.6" y="51.2" width="20.8" height="20.8" rx="5.2" fill="#F4B942"/>
+  <rect x="27.28" y="60.56" width="11.44" height="7.8" rx="1.56" fill="none" stroke="#1E3A5F" stroke-width="1.56"/>
+  <circle cx="33.0" cy="56.4" r="1.56" fill="#1E3A5F"/>
+  <text x="52.5" y="66.28" font-size="16.12" fill="#FFFFFF" font-weight="700">Learn@Home</text>
+  <text x="370" y="70" font-size="15" fill="#C9D6E5" font-weight="700" text-anchor="end">Accueil</text>
+  <rect x="0" y="760" width="390" height="84" rx="0" fill="#FFFFFF"/>
+  <line x1="0" y1="760" x2="390" y2="760" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="18.75" y="768" width="60" height="34" rx="17" fill="#FDF1D6"/>
+  <path d="M38.75 784 L48.75 775 L58.75 784 V795 H38.75 Z" fill="none" stroke="#1E3A5F" stroke-width="2" stroke-linejoin="round"/>
+  <text x="48.75" y="820" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Accueil</text>
+  <path d="M136.25 777 H156.25 V790 H144.25 L139.25 795 V790 H136.25 Z" fill="none" stroke="#6B7280" stroke-width="2" stroke-linejoin="round"/>
+  <text x="146.25" y="820" font-size="12" fill="#6B7280" text-anchor="middle">Chat</text>
+  <circle cx="162.25" cy="772" r="11" fill="#F4B942"/>
+  <text x="162.25" y="777" font-size="13" fill="#1E3A5F" font-weight="700" text-anchor="middle">3</text>
+  <rect x="233.75" y="778" width="20" height="17" rx="3" fill="none" stroke="#6B7280" stroke-width="2"/>
+  <line x1="233.75" y1="784" x2="253.75" y2="784" stroke="#6B7280" stroke-width="2"/>
+  <line x1="239.75" y1="775" x2="239.75" y2="780" stroke="#6B7280" stroke-width="2"/>
+  <line x1="247.75" y1="775" x2="247.75" y2="780" stroke="#6B7280" stroke-width="2"/>
+  <text x="243.75" y="820" font-size="12" fill="#6B7280" text-anchor="middle">Agenda</text>
+  <circle cx="333.25" cy="778" r="2" fill="#6B7280"/>
+  <line x1="338.25" y1="778" x2="351.25" y2="778" stroke="#6B7280" stroke-width="2"/>
+  <circle cx="333.25" cy="785" r="2" fill="#6B7280"/>
+  <line x1="338.25" y1="785" x2="351.25" y2="785" stroke="#6B7280" stroke-width="2"/>
+  <circle cx="333.25" cy="792" r="2" fill="#6B7280"/>
+  <line x1="338.25" y1="792" x2="351.25" y2="792" stroke="#6B7280" stroke-width="2"/>
+  <text x="341.25" y="820" font-size="12" fill="#6B7280" text-anchor="middle">Tâches</text>
+  <text x="20" y="140" font-size="24" fill="#1E3A5F" font-weight="700">Bonjour Clarisse !</text>
+  <text x="20" y="164" font-size="13" fill="#6B7280">Vendredi 16 octobre 2026</text>
+  <rect x="20" y="184" width="168" height="104" rx="16" fill="#F4B942"/>
+  <path d="M36 202 H56 V215 H44 L39 220 V215 H36 Z" fill="none" stroke="#1E3A5F" stroke-width="2" stroke-linejoin="round"/>
+  <text x="36" y="256" font-size="30" fill="#1E3A5F" font-weight="700">3</text>
+  <text x="36" y="276" font-size="12" fill="#1E3A5F" font-weight="700">messages non lus</text>
+  <rect x="202" y="184" width="168" height="104" rx="16" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="218" y="203" width="20" height="17" rx="3" fill="none" stroke="#1E3A5F" stroke-width="2"/>
+  <line x1="218" y1="209" x2="238" y2="209" stroke="#1E3A5F" stroke-width="2"/>
+  <line x1="224" y1="200" x2="224" y2="205" stroke="#1E3A5F" stroke-width="2"/>
+  <line x1="232" y1="200" x2="232" y2="205" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="218" y="250" font-size="18" fill="#1E3A5F" font-weight="700">Lun. 19 oct.</text>
+  <text x="218" y="272" font-size="12" fill="#6B7280">17h00 · Jean Dupont</text>
+  <text x="20" y="330" font-size="18" fill="#1E3A5F" font-weight="700">Mes tâches</text>
+  <text x="370" y="330" font-size="13" fill="#2F5A86" font-weight="700" text-anchor="end">Tout voir →</text>
+  <rect x="20" y="346" width="350" height="58" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="20" y="346" width="5" height="58" rx="3" fill="#F4B942"/>
+  <text x="38" y="371" font-size="14" fill="#1F2937" font-weight="700">Exercices 4 à 7 page 52 (maths)</text>
+  <text x="38" y="391" font-size="12" fill="#6B7280">Pour le 19 oct.</text>
+  <rect x="20" y="414" width="350" height="58" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="20" y="414" width="5" height="58" rx="3" fill="#F4B942"/>
+  <text x="38" y="439" font-size="14" fill="#1F2937" font-weight="700">Relire la leçon sur le passé comp…</text>
+  <text x="38" y="459" font-size="12" fill="#6B7280">Pour le 21 oct.</text>
+  <rect x="20" y="482" width="350" height="58" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="20" y="482" width="5" height="58" rx="3" fill="#2F5A86"/>
+  <text x="38" y="507" font-size="14" fill="#1F2937" font-weight="700">Réviser le contrôle de maths</text>
+  <text x="38" y="527" font-size="12" fill="#6B7280">Pour le 22 oct.</text>
+  <text x="20" y="574" font-size="18" fill="#1E3A5F" font-weight="700">Prochains événements</text>
+  <text x="370" y="574" font-size="13" fill="#2F5A86" font-weight="700" text-anchor="end">Calendrier →</text>
+  <rect x="20" y="590" width="350" height="64" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="30" y="598" width="48" height="48" rx="10" fill="#E6EDF5"/>
+  <text x="54" y="616" font-size="10" fill="#2F5A86" font-weight="700" text-anchor="middle">LUN.</text>
+  <text x="54" y="638" font-size="18" fill="#1E3A5F" font-weight="700" text-anchor="middle">19</text>
+  <text x="92" y="618" font-size="14" fill="#1F2937" font-weight="700">Rendez-vous avec Jean Dupont</text>
+  <text x="92" y="638" font-size="12" fill="#6B7280">17h00 – 17h45</text>
+  <rect x="20" y="666" width="350" height="64" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="30" y="674" width="48" height="48" rx="10" fill="#E6EDF5"/>
+  <text x="54" y="692" font-size="10" fill="#2F5A86" font-weight="700" text-anchor="middle">MER.</text>
+  <text x="54" y="714" font-size="18" fill="#1E3A5F" font-weight="700" text-anchor="middle">21</text>
+  <text x="92" y="694" font-size="14" fill="#1F2937" font-weight="700">Rendez-vous avec Jean Dupont</text>
+  <text x="92" y="714" font-size="12" fill="#6B7280">14h00 – 14h45</text>
+</svg>
