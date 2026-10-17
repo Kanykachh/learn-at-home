@@ -14,7 +14,7 @@
   <path d="M136.25 777 H156.25 V790 H144.25 L139.25 795 V790 H136.25 Z" fill="none" stroke="#6B7280" stroke-width="2" stroke-linejoin="round"/>
   <text x="146.25" y="820" font-size="11" fill="#6B7280" text-anchor="middle">Chat</text>
   <circle cx="162.25" cy="772" r="11" fill="#F4B942"/>
-  <text x="162.25" y="777" font-size="13" fill="#1E3A5F" font-weight="700" text-anchor="middle">3</text>
+  <text x="162.25" y="777" font-size="13" fill="#1E3A5F" font-weight="700" text-anchor="middle">2</text>
   <rect x="233.75" y="778" width="20" height="17" rx="3" fill="none" stroke="#6B7280" stroke-width="2"/>
   <line x1="233.75" y1="784" x2="253.75" y2="784" stroke="#6B7280" stroke-width="2"/>
   <line x1="239.75" y1="775" x2="239.75" y2="780" stroke="#6B7280" stroke-width="2"/>

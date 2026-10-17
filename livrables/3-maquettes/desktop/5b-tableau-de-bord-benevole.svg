@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" font-family="Nunito, Arial, sans-serif">
+  <rect width="1440" height="900" fill="#FAF7F2"/>
+  <rect x="0" y="0" width="248" height="900" rx="0" fill="#1E3A5F"/>
+  <path d="M42.88 41.480000000000004 Q42.88 34 49.0 34 Q55.120000000000005 34 55.120000000000005 41.480000000000004" fill="none" stroke="#F4B942" stroke-width="2.72"/>
+  <rect x="35.4" y="40.8" width="27.200000000000003" height="27.200000000000003" rx="6.800000000000001" fill="#F4B942"/>
+  <rect x="41.52" y="53.040000000000006" width="14.96" height="10.2" rx="2.04" fill="none" stroke="#1E3A5F" stroke-width="2.04"/>
+  <circle cx="49.0" cy="47.6" r="2.04" fill="#1E3A5F"/>
+  <text x="74.5" y="60.519999999999996" font-size="21.08" fill="#FFFFFF" font-weight="700">Learn@Home</text>
+  <rect x="16" y="124" width="216" height="46" rx="12" fill="#2F5A86"/>
+  <rect x="16" y="124" width="4" height="46" rx="2" fill="#F4B942"/>
+  <path d="M36 145 L46 136 L56 145 V156 H36 Z" fill="none" stroke="#F4B942" stroke-width="2" stroke-linejoin="round"/>
+  <text x="72" y="153" font-size="16" fill="#FFFFFF" font-weight="700">Tableau de bord</text>
+  <path d="M36 194 H56 V207 H44 L39 212 V207 H36 Z" fill="none" stroke="#C9D6E5" stroke-width="2" stroke-linejoin="round"/>
+  <text x="72" y="209" font-size="16" fill="#FFFFFF">Chat</text>
+  <circle cx="204" cy="203" r="11" fill="#F4B942"/>
+  <text x="204" y="208" font-size="13" fill="#1E3A5F" font-weight="700" text-anchor="middle">2</text>
+  <rect x="36" y="251" width="20" height="17" rx="3" fill="none" stroke="#C9D6E5" stroke-width="2"/>
+  <line x1="36" y1="257" x2="56" y2="257" stroke="#C9D6E5" stroke-width="2"/>
+  <line x1="42" y1="248" x2="42" y2="253" stroke="#C9D6E5" stroke-width="2"/>
+  <line x1="50" y1="248" x2="50" y2="253" stroke="#C9D6E5" stroke-width="2"/>
+  <text x="72" y="265" font-size="16" fill="#FFFFFF">Calendrier</text>
+  <circle cx="38" cy="307" r="2" fill="#C9D6E5"/>
+  <line x1="43" y1="307" x2="56" y2="307" stroke="#C9D6E5" stroke-width="2"/>
+  <circle cx="38" cy="314" r="2" fill="#C9D6E5"/>
+  <line x1="43" y1="314" x2="56" y2="314" stroke="#C9D6E5" stroke-width="2"/>
+  <circle cx="38" cy="321" r="2" fill="#C9D6E5"/>
+  <line x1="43" y1="321" x2="56" y2="321" stroke="#C9D6E5" stroke-width="2"/>
+  <text x="72" y="321" font-size="16" fill="#FFFFFF">Tâches</text>
+  <line x1="24" y1="804" x2="224" y2="804" stroke="#2F5A86" stroke-width="1"/>
+  <circle cx="52" cy="848" r="20" fill="#2F5A86"/>
+  <text x="52" y="855.2" font-size="18.0" fill="#FFFFFF" font-weight="700" text-anchor="middle">JD</text>
+  <text x="84" y="844" font-size="15" fill="#FFFFFF" font-weight="700">Jean Dupont</text>
+  <text x="84" y="864" font-size="13" fill="#C9D6E5">Bénévole</text>
+  <text x="296" y="72" font-size="30" fill="#1E3A5F" font-weight="700">Bonjour Jean !</text>
+  <text x="296" y="100" font-size="15" fill="#6B7280">Vendredi 16 octobre 2026</text>
+  <rect x="296.0" y="136" width="349.3333333333333" height="132" rx="16" fill="#F4B942"/>
+  <rect x="320.0" y="160" width="44" height="44" rx="12" fill="#1E3A5F"/>
+  <path d="M332.0 174 H352.0 V187 H340.0 L335.0 192 V187 H332.0 Z" fill="none" stroke="#F4B942" stroke-width="2" stroke-linejoin="round"/>
+  <text x="380.0" y="180" font-size="15" fill="#1E3A5F" font-weight="700">Messages non lus</text>
+  <text x="380.0" y="222" font-size="34" fill="#1E3A5F" font-weight="700">2</text>
+  <text x="380.0" y="250" font-size="14" fill="#1E3A5F">Ouvrir le chat</text>
+  <rect x="669.3333333333333" y="136" width="349.3333333333333" height="132" rx="16" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="693.3333333333333" y="160" width="44" height="44" rx="12" fill="#E6EDF5"/>
+  <rect x="705.3333333333333" y="175" width="20" height="17" rx="3" fill="none" stroke="#1E3A5F" stroke-width="2"/>
+  <line x1="705.3333333333333" y1="181" x2="725.3333333333333" y2="181" stroke="#1E3A5F" stroke-width="2"/>
+  <line x1="711.3333333333333" y1="172" x2="711.3333333333333" y2="177" stroke="#1E3A5F" stroke-width="2"/>
+  <line x1="719.3333333333333" y1="172" x2="719.3333333333333" y2="177" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="753.3333333333333" y="180" font-size="15" fill="#1E3A5F" font-weight="700">Prochain rendez-vous</text>
+  <text x="753.3333333333333" y="222" font-size="26" fill="#1E3A5F" font-weight="700">Lun. 19 oct.</text>
+  <text x="753.3333333333333" y="250" font-size="14" fill="#6B7280">17h00 avec Clarisse Roger</text>
+  <rect x="1042.6666666666665" y="136" width="349.3333333333333" height="132" rx="16" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="1066.6666666666665" y="160" width="44" height="44" rx="12" fill="#E6EDF5"/>
+  <circle cx="1080.6666666666665" cy="175" r="2" fill="#1E3A5F"/>
+  <line x1="1085.6666666666665" y1="175" x2="1098.6666666666665" y2="175" stroke="#1E3A5F" stroke-width="2"/>
+  <circle cx="1080.6666666666665" cy="182" r="2" fill="#1E3A5F"/>
+  <line x1="1085.6666666666665" y1="182" x2="1098.6666666666665" y2="182" stroke="#1E3A5F" stroke-width="2"/>
+  <circle cx="1080.6666666666665" cy="189" r="2" fill="#1E3A5F"/>
+  <line x1="1085.6666666666665" y1="189" x2="1098.6666666666665" y2="189" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="1126.6666666666665" y="180" font-size="15" fill="#1E3A5F" font-weight="700">Tâches de mes élèves</text>
+  <text x="1126.6666666666665" y="222" font-size="34" fill="#1E3A5F" font-weight="700">9</text>
+  <text x="1126.6666666666665" y="250" font-size="14" fill="#6B7280">pour 3 élèves suivis</text>
+  <rect x="296" y="300" width="600" height="520" rx="16" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <text x="324" y="346" font-size="20" fill="#1E3A5F" font-weight="700">Tâches de mes élèves</text>
+  <text x="868" y="346" font-size="14" fill="#2F5A86" font-weight="700" text-anchor="end">Voir toutes les tâches →</text>
+  <rect x="316" y="380" width="560" height="88" rx="12" fill="#FAF7F2"/>
+  <rect x="316" y="380" width="6" height="88" rx="3" fill="#2F5A86"/>
+  <text x="340" y="414" font-size="16" fill="#1F2937" font-weight="700">Exercices 4 à 7 page 52 (maths)</text>
+  <circle cx="348" cy="438" r="9" fill="#D9822B"/>
+  <text x="348" y="441.24" font-size="8.1" fill="#FFFFFF" font-weight="700" text-anchor="middle">CR</text>
+  <text x="364" y="443" font-size="13" fill="#6B7280">Clarisse Roger</text>
+  <rect x="726" y="412" width="125" height="24" rx="12" fill="#FDF1D6"/>
+  <text x="788.5" y="428" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 19 oct.</text>
+  <rect x="316" y="484" width="560" height="88" rx="12" fill="#FAF7F2"/>
+  <rect x="316" y="484" width="6" height="88" rx="3" fill="#2F5A86"/>
+  <text x="340" y="518" font-size="16" fill="#1F2937" font-weight="700">Fiche de lecture, chapitre 2</text>
+  <circle cx="348" cy="542" r="9" fill="#2E7D5B"/>
+  <text x="348" y="545.24" font-size="8.1" fill="#FFFFFF" font-weight="700" text-anchor="middle">HB</text>
+  <text x="364" y="547" font-size="13" fill="#6B7280">Hugo Bernard</text>
+  <rect x="726" y="516" width="125" height="24" rx="12" fill="#FDF1D6"/>
+  <text x="788.5" y="532" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 20 oct.</text>
+  <rect x="316" y="588" width="560" height="88" rx="12" fill="#FAF7F2"/>
+  <rect x="316" y="588" width="6" height="88" rx="3" fill="#2F5A86"/>
+  <text x="340" y="622" font-size="16" fill="#1F2937" font-weight="700">Relire la leçon sur le passé composé</text>
+  <circle cx="348" cy="646" r="9" fill="#D9822B"/>
+  <text x="348" y="649.24" font-size="8.1" fill="#FFFFFF" font-weight="700" text-anchor="middle">CR</text>
+  <text x="364" y="651" font-size="13" fill="#6B7280">Clarisse Roger</text>
+  <rect x="726" y="620" width="125" height="24" rx="12" fill="#FDF1D6"/>
+  <text x="788.5" y="636" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 21 oct.</text>
+  <rect x="316" y="692" width="560" height="88" rx="12" fill="#FAF7F2"/>
+  <rect x="316" y="692" width="6" height="88" rx="3" fill="#2F5A86"/>
+  <text x="340" y="726" font-size="16" fill="#1F2937" font-weight="700">Exercices de géométrie page 34</text>
+  <circle cx="348" cy="750" r="9" fill="#7A5BA6"/>
+  <text x="348" y="753.24" font-size="8.1" fill="#FFFFFF" font-weight="700" text-anchor="middle">IP</text>
+  <text x="364" y="755" font-size="13" fill="#6B7280">Inès Petit</text>
+  <rect x="726" y="724" width="125" height="24" rx="12" fill="#FDF1D6"/>
+  <text x="788.5" y="740" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 23 oct.</text>
+  <rect x="920" y="300" width="472" height="520" rx="16" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <text x="948" y="346" font-size="20" fill="#1E3A5F" font-weight="700">Prochains événements</text>
+  <text x="1364" y="346" font-size="14" fill="#2F5A86" font-weight="700" text-anchor="end">Voir le calendrier →</text>
+  <rect x="944" y="384" width="64" height="72" rx="12" fill="#E6EDF5"/>
+  <text x="976" y="412" font-size="12" fill="#2F5A86" font-weight="700" text-anchor="middle">LUN.</text>
+  <text x="976" y="440" font-size="26" fill="#1E3A5F" font-weight="700" text-anchor="middle">19</text>
+  <text x="1028" y="416" font-size="16" fill="#1F2937" font-weight="700">Rendez-vous avec Clarisse Roger</text>
+  <text x="1028" y="440" font-size="14" fill="#6B7280">17h00 – 17h45</text>
+  <line x1="944" y1="472" x2="1368" y2="472" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="944" y="484" width="64" height="72" rx="12" fill="#E6EDF5"/>
+  <text x="976" y="512" font-size="12" fill="#2F5A86" font-weight="700" text-anchor="middle">MAR.</text>
+  <text x="976" y="540" font-size="26" fill="#1E3A5F" font-weight="700" text-anchor="middle">20</text>
+  <text x="1028" y="516" font-size="16" fill="#1F2937" font-weight="700">Rendez-vous avec Hugo Bernard</text>
+  <text x="1028" y="540" font-size="14" fill="#6B7280">18h00 – 18h45</text>
+  <line x1="944" y1="572" x2="1368" y2="572" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="944" y="584" width="64" height="72" rx="12" fill="#E6EDF5"/>
+  <text x="976" y="612" font-size="12" fill="#2F5A86" font-weight="700" text-anchor="middle">MER.</text>
+  <text x="976" y="640" font-size="26" fill="#1E3A5F" font-weight="700" text-anchor="middle">21</text>
+  <text x="1028" y="616" font-size="16" fill="#1F2937" font-weight="700">Rendez-vous avec Clarisse Roger</text>
+  <text x="1028" y="640" font-size="14" fill="#6B7280">14h00 – 14h45</text>
+</svg>
