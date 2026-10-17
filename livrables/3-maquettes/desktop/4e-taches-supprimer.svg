@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" font-family="Nunito, Arial, sans-serif">
+  <rect width="1440" height="900" fill="#FAF7F2"/>
+  <rect x="0" y="0" width="248" height="900" rx="0" fill="#1E3A5F"/>
+  <path d="M42.88 41.480000000000004 Q42.88 34 49.0 34 Q55.120000000000005 34 55.120000000000005 41.480000000000004" fill="none" stroke="#F4B942" stroke-width="2.72"/>
+  <rect x="35.4" y="40.8" width="27.200000000000003" height="27.200000000000003" rx="6.800000000000001" fill="#F4B942"/>
+  <rect x="41.52" y="53.040000000000006" width="14.96" height="10.2" rx="2.04" fill="none" stroke="#1E3A5F" stroke-width="2.04"/>
+  <circle cx="49.0" cy="47.6" r="2.04" fill="#1E3A5F"/>
+  <text x="74.5" y="60.519999999999996" font-size="21.08" fill="#FFFFFF" font-weight="700">Learn@Home</text>
+  <path d="M36 145 L46 136 L56 145 V156 H36 Z" fill="none" stroke="#C9D6E5" stroke-width="2" stroke-linejoin="round"/>
+  <text x="72" y="153" font-size="16" fill="#FFFFFF">Tableau de bord</text>
+  <path d="M36 194 H56 V207 H44 L39 212 V207 H36 Z" fill="none" stroke="#C9D6E5" stroke-width="2" stroke-linejoin="round"/>
+  <text x="72" y="209" font-size="16" fill="#FFFFFF">Chat</text>
+  <circle cx="204" cy="203" r="11" fill="#F4B942"/>
+  <text x="204" y="208" font-size="13" fill="#1E3A5F" font-weight="700" text-anchor="middle">3</text>
+  <rect x="36" y="251" width="20" height="17" rx="3" fill="none" stroke="#C9D6E5" stroke-width="2"/>
+  <line x1="36" y1="257" x2="56" y2="257" stroke="#C9D6E5" stroke-width="2"/>
+  <line x1="42" y1="248" x2="42" y2="253" stroke="#C9D6E5" stroke-width="2"/>
+  <line x1="50" y1="248" x2="50" y2="253" stroke="#C9D6E5" stroke-width="2"/>
+  <text x="72" y="265" font-size="16" fill="#FFFFFF">Calendrier</text>
+  <rect x="16" y="292" width="216" height="46" rx="12" fill="#2F5A86"/>
+  <rect x="16" y="292" width="4" height="46" rx="2" fill="#F4B942"/>
+  <circle cx="38" cy="307" r="2" fill="#F4B942"/>
+  <line x1="43" y1="307" x2="56" y2="307" stroke="#F4B942" stroke-width="2"/>
+  <circle cx="38" cy="314" r="2" fill="#F4B942"/>
+  <line x1="43" y1="314" x2="56" y2="314" stroke="#F4B942" stroke-width="2"/>
+  <circle cx="38" cy="321" r="2" fill="#F4B942"/>
+  <line x1="43" y1="321" x2="56" y2="321" stroke="#F4B942" stroke-width="2"/>
+  <text x="72" y="321" font-size="16" fill="#FFFFFF" font-weight="700">Tâches</text>
+  <line x1="24" y1="804" x2="224" y2="804" stroke="#2F5A86" stroke-width="1"/>
+  <circle cx="52" cy="848" r="20" fill="#D9822B"/>
+  <text x="52" y="855.2" font-size="18.0" fill="#FFFFFF" font-weight="700" text-anchor="middle">CR</text>
+  <text x="84" y="844" font-size="15" fill="#FFFFFF" font-weight="700">Clarisse Roger</text>
+  <text x="84" y="864" font-size="13" fill="#C9D6E5">Élève</text>
+  <text x="296" y="72" font-size="30" fill="#1E3A5F" font-weight="700">Mes tâches</text>
+  <text x="296" y="100" font-size="15" fill="#6B7280">4 tâches à faire</text>
+  <rect x="1172" y="50" width="220" height="50" rx="25.0" fill="#F4B942"/>
+  <text x="1282.0" y="80.25" font-size="15" fill="#1E3A5F" font-weight="700" text-anchor="middle">+ Ajouter une tâche</text>
+  <rect x="296" y="136" width="116" height="38" rx="19" fill="#1E3A5F"/>
+  <text x="354.0" y="160" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">Toutes (4)</text>
+  <rect x="424" y="136" width="172" height="38" rx="19" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <text x="510.0" y="160" font-size="14" fill="#1E3A5F" font-weight="700" text-anchor="middle">De mon tuteur (2)</text>
+  <rect x="608" y="136" width="196" height="38" rx="19" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <text x="706.0" y="160" font-size="14" fill="#1E3A5F" font-weight="700" text-anchor="middle">Ajoutées par moi (2)</text>
+  <rect x="296" y="200" width="1096" height="76" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="296" y="200" width="6" height="76" rx="3" fill="#F4B942"/>
+  <text x="324" y="232" font-size="16" fill="#1F2937" font-weight="700">Exercices 4 à 7 page 52 (maths)</text>
+  <text x="324" y="256" font-size="13" fill="#6B7280">Ajoutée par Jean Dupont</text>
+  <rect x="1172" y="226" width="125" height="24" rx="12" fill="#FDF1D6"/>
+  <text x="1234.5" y="242" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 19 oct.</text>
+  <rect x="296" y="292" width="1096" height="76" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="296" y="292" width="6" height="76" rx="3" fill="#F4B942"/>
+  <text x="324" y="324" font-size="16" fill="#1F2937" font-weight="700">Relire la leçon sur le passé composé</text>
+  <text x="324" y="348" font-size="13" fill="#6B7280">Ajoutée par Jean Dupont</text>
+  <rect x="1172" y="318" width="125" height="24" rx="12" fill="#FDF1D6"/>
+  <text x="1234.5" y="334" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 21 oct.</text>
+  <rect x="296" y="384" width="1096" height="76" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="296" y="384" width="6" height="76" rx="3" fill="#2F5A86"/>
+  <text x="324" y="416" font-size="16" fill="#1F2937" font-weight="700">Réviser le contrôle de maths</text>
+  <text x="324" y="440" font-size="13" fill="#6B7280">Ajoutée par moi</text>
+  <rect x="1172" y="410" width="125" height="24" rx="12" fill="#FDF1D6"/>
+  <text x="1234.5" y="426" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 22 oct.</text>
+  <rect x="1328" y="402" width="40" height="40" rx="20" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <line x1="1340" y1="416" x2="1356" y2="416" stroke="#C0392B" stroke-width="2"/>
+  <line x1="1346" y1="413" x2="1350" y2="413" stroke="#C0392B" stroke-width="2"/>
+  <path d="M1342 418 L1343 430 H1353 L1354 418" fill="none" stroke="#C0392B" stroke-width="2"/>
+  <rect x="296" y="476" width="1096" height="76" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <rect x="296" y="476" width="6" height="76" rx="3" fill="#2F5A86"/>
+  <text x="324" y="508" font-size="16" fill="#1F2937" font-weight="700">Préparer l&#x27;exposé d&#x27;histoire</text>
+  <text x="324" y="532" font-size="13" fill="#6B7280">Ajoutée par moi</text>
+  <rect x="1172" y="502" width="125" height="24" rx="12" fill="#FDF1D6"/>
+  <text x="1234.5" y="518" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 30 oct.</text>
+  <rect x="1328" y="494" width="40" height="40" rx="20" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <line x1="1340" y1="508" x2="1356" y2="508" stroke="#C0392B" stroke-width="2"/>
+  <line x1="1346" y1="505" x2="1350" y2="505" stroke="#C0392B" stroke-width="2"/>
+  <path d="M1342 510 L1343 522 H1353 L1354 510" fill="none" stroke="#C0392B" stroke-width="2"/>
+  <rect width="1440" height="900" fill="#0F1E30" fill-opacity="0.55"/>
+  <rect x="520" y="300" width="400" height="230" rx="16" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
+  <text x="552" y="356" font-size="22" fill="#1E3A5F" font-weight="700">Supprimer cette tâche ?</text>
+  <text x="552" y="392" font-size="15" fill="#6B7280">« Réviser le contrôle de maths » sera</text>
+  <text x="552" y="414" font-size="15" fill="#6B7280">retirée de ta liste.</text>
+  <rect x="552" y="456" width="156" height="46" rx="23.0" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="630.0" y="484.25" font-size="15" fill="#1E3A5F" font-weight="700" text-anchor="middle">Annuler</text>
+  <rect x="732" y="456" width="156" height="46" rx="23.0" fill="#C0392B"/>
+  <text x="810.0" y="484.25" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">Supprimer</text>
+</svg>

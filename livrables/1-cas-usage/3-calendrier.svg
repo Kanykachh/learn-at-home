@@ -26,5 +26,5 @@
     <line x1="890" y1="250.0" x2="908" y2="282.0"/>
   </g>
   <text x="890" y="308.0" text-anchor="middle" font-size="17" font-weight="bold">Bénévole</text>
-  <text x="40" y="380" font-size="14" fill="#444">• Ajout et suppression d&#x27;un événement : à confirmer avec Learn@Home.</text>
+  <text x="40" y="380" font-size="14" fill="#444">• Qui crée les événements, et s&#x27;il faut pouvoir en ajouter ou en supprimer : à confirmer avec Learn@Home.</text>
 </svg>

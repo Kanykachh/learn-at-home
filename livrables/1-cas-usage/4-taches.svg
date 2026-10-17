@@ -17,7 +17,7 @@
   <line x1="140" y1="300.0" x2="285" y2="437.0" stroke="#555" stroke-width="1.5"/>
   <line x1="860" y1="300.0" x2="715" y2="437.0" stroke="#555" stroke-width="1.5"/>
   <ellipse cx="500" cy="437.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
-  <text x="500" y="442.0" text-anchor="middle" font-size="15">Supprimer une tâche</text>
+  <text x="500" y="442.0" text-anchor="middle" font-size="15">Supprimer une tâche qu&#x27;il a créée</text>
 
   <g stroke="#333" stroke-width="2" fill="none">
     <circle cx="110" cy="272.0" r="14" fill="#fff"/>
@@ -37,5 +37,5 @@
   </g>
   <text x="890" y="382.0" text-anchor="middle" font-size="17" font-weight="bold">Bénévole</text>
   <text x="40" y="528" font-size="14" fill="#444">• L&#x27;élève ne peut créer des tâches que pour lui-même.</text>
-  <text x="40" y="554" font-size="14" fill="#444">• Qui peut supprimer quelle tâche : à confirmer avec Learn@Home.</text>
+  <text x="40" y="554" font-size="14" fill="#444">• Chacun ne supprime que les tâches qu&#x27;il a créées : règle à confirmer avec Learn@Home.</text>
 </svg>

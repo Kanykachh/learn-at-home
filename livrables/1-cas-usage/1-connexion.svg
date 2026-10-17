@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="482" viewBox="0 0 1000 482" font-family="Arial, Helvetica, sans-serif" fill="#222">
-  <rect width="1000" height="482" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="508" viewBox="0 0 1000 508" font-family="Arial, Helvetica, sans-serif" fill="#222">
+  <rect width="1000" height="508" fill="#fff"/>
   <text x="40" y="48" font-size="24" font-weight="bold">Learn@Home — Page de connexion</text>
   <text x="40" y="76" font-size="14" fill="#666">Diagramme de cas d'usage</text>
   <rect x="270" y="100" width="460" height="306" rx="10" fill="none" stroke="#C9485B" stroke-width="2"/>
@@ -35,4 +35,5 @@
   </g>
   <text x="890" y="341.0" text-anchor="middle" font-size="17" font-weight="bold">Bénévole</text>
   <text x="40" y="446" font-size="14" fill="#444">• Les autres pages ne sont accessibles qu&#x27;une fois connecté.</text>
+  <text x="40" y="472" font-size="14" fill="#444">• Contenu de la création de compte : à préciser avec Learn@Home.</text>
 </svg>

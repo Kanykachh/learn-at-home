@@ -12,7 +12,7 @@ Diagrammes : `1-connexion.svg` à `5-tableau-de-bord.svg`. Vue d'ensemble : `ape
 | Récupérer un mot de passe oublié | oui | oui | Notes § 1 |
 | Accéder à la création de compte | oui | oui | Notes § 1, lien depuis la connexion |
 
-Règle : les autres pages ne sont accessibles qu'une fois connecté.
+Règle : les autres pages ne sont accessibles qu'une fois connecté. Le contenu de la création de compte reste à préciser (question 6).
 
 ## 2. Chat
 
@@ -25,13 +25,15 @@ Règle : les autres pages ne sont accessibles qu'une fois connecté.
 
 Chaque message affiche la photo de l'expéditeur, l'heure d'envoi et s'il a été lu. Ce sont des informations affichées, pas des actions de l'utilisateur.
 
+Les personnes que l'on peut ajouter comme contact sont à confirmer (question 5).
+
 ## 3. Calendrier
 
 | Cas d'usage | Élève | Bénévole | Source |
 | --- | --- | --- | --- |
 | Consulter ses événements et rendez-vous | oui | oui | Notes § 3 |
 
-Ajout et suppression d'un événement : à confirmer avec Learn@Home (question 1).
+Les notes ne disent pas qui crée les événements et les rendez-vous. Les événements des maquettes sont des exemples. Ajout et suppression : à confirmer avec Learn@Home (question 1).
 
 ## 4. Gestion des tâches
 
@@ -40,7 +42,9 @@ Ajout et suppression d'un événement : à confirmer avec Learn@Home (question 1
 | Consulter la liste des tâches | oui | oui | Notes § 4 |
 | Ajouter une tâche pour soi-même | oui | à confirmer (question 2) | Notes § 4 |
 | Ajouter une tâche pour un élève suivi | non | oui | Notes § 4 |
-| Supprimer une tâche | oui | oui | Notes § 4 |
+| Supprimer une tâche qu'il a créée | oui | oui | Notes § 4 |
+
+Règle retenue : chacun ne supprime que les tâches qu'il a créées. À confirmer (question 3).
 
 ## 5. Tableau de bord
 
@@ -54,7 +58,9 @@ Le tableau de bord est la page principale du site.
 
 ## Questions pour Learn@Home
 
-1. Les notes parlent d'afficher le calendrier. Faut-il aussi pouvoir ajouter ou supprimer un événement ?
+1. Les notes parlent d'afficher le calendrier. Qui crée les événements et les rendez-vous ? Faut-il pouvoir en ajouter ou en supprimer depuis le site ?
 2. Un bénévole peut-il aussi créer des tâches pour lui-même ?
-3. Qui peut supprimer une tâche créée par le bénévole pour un élève ?
+3. Le cadrage prévoit que chacun ne supprime que les tâches qu'il a créées. Un élève peut-il supprimer une tâche ajoutée par son tuteur ?
 4. Qui assigne un tuteur à un élève ?
+5. Qui peut-on ajouter comme contact dans le chat : seulement son tuteur ou ses élèves, ou tout membre de l'association ?
+6. Que demande la création de compte, et qui peut créer un compte ?

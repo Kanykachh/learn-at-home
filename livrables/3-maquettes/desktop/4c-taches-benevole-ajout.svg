@@ -77,20 +77,12 @@
   <text x="628" y="428" font-size="13" fill="#6B7280">Ajoutée par Clarisse Roger</text>
   <rect x="1172" y="398" width="125" height="24" rx="12" fill="#FDF1D6"/>
   <text x="1234.5" y="414" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 22 oct.</text>
-  <rect x="1328" y="390" width="40" height="40" rx="20" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
-  <line x1="1340" y1="404" x2="1356" y2="404" stroke="#C0392B" stroke-width="2"/>
-  <line x1="1346" y1="401" x2="1350" y2="401" stroke="#C0392B" stroke-width="2"/>
-  <path d="M1342 406 L1343 418 H1353 L1354 406" fill="none" stroke="#C0392B" stroke-width="2"/>
   <rect x="600" y="464" width="792" height="76" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
   <rect x="600" y="464" width="6" height="76" rx="3" fill="#F4B942"/>
   <text x="628" y="496" font-size="16" fill="#1F2937" font-weight="700">Préparer l&#x27;exposé d&#x27;histoire</text>
   <text x="628" y="520" font-size="13" fill="#6B7280">Ajoutée par Clarisse Roger</text>
   <rect x="1172" y="490" width="125" height="24" rx="12" fill="#FDF1D6"/>
   <text x="1234.5" y="506" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 30 oct.</text>
-  <rect x="1328" y="482" width="40" height="40" rx="20" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
-  <line x1="1340" y1="496" x2="1356" y2="496" stroke="#C0392B" stroke-width="2"/>
-  <line x1="1346" y1="493" x2="1350" y2="493" stroke="#C0392B" stroke-width="2"/>
-  <path d="M1342 498 L1343 510 H1353 L1354 498" fill="none" stroke="#C0392B" stroke-width="2"/>
   <rect width="1440" height="900" fill="#0F1E30" fill-opacity="0.55"/>
   <rect x="500" y="170" width="440" height="520" rx="16" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
   <text x="532" y="226" font-size="24" fill="#1E3A5F" font-weight="700">Nouvelle tâche</text>

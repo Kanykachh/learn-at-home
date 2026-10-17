@@ -47,20 +47,12 @@
   <text x="324" y="256" font-size="13" fill="#6B7280">Ajoutée par Jean Dupont</text>
   <rect x="1172" y="226" width="125" height="24" rx="12" fill="#FDF1D6"/>
   <text x="1234.5" y="242" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 19 oct.</text>
-  <rect x="1328" y="218" width="40" height="40" rx="20" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
-  <line x1="1340" y1="232" x2="1356" y2="232" stroke="#C0392B" stroke-width="2"/>
-  <line x1="1346" y1="229" x2="1350" y2="229" stroke="#C0392B" stroke-width="2"/>
-  <path d="M1342 234 L1343 246 H1353 L1354 234" fill="none" stroke="#C0392B" stroke-width="2"/>
   <rect x="296" y="292" width="1096" height="76" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
   <rect x="296" y="292" width="6" height="76" rx="3" fill="#F4B942"/>
   <text x="324" y="324" font-size="16" fill="#1F2937" font-weight="700">Relire la leçon sur le passé composé</text>
   <text x="324" y="348" font-size="13" fill="#6B7280">Ajoutée par Jean Dupont</text>
   <rect x="1172" y="318" width="125" height="24" rx="12" fill="#FDF1D6"/>
   <text x="1234.5" y="334" font-size="12" fill="#1E3A5F" font-weight="700" text-anchor="middle">Pour le 21 oct.</text>
-  <rect x="1328" y="310" width="40" height="40" rx="20" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
-  <line x1="1340" y1="324" x2="1356" y2="324" stroke="#C0392B" stroke-width="2"/>
-  <line x1="1346" y1="321" x2="1350" y2="321" stroke="#C0392B" stroke-width="2"/>
-  <path d="M1342 326 L1343 338 H1353 L1354 326" fill="none" stroke="#C0392B" stroke-width="2"/>
   <rect x="296" y="384" width="1096" height="76" rx="12" fill="#FFFFFF" stroke="#E5E1DA" stroke-width="1"/>
   <rect x="296" y="384" width="6" height="76" rx="3" fill="#2F5A86"/>
   <text x="324" y="416" font-size="16" fill="#1F2937" font-weight="700">Réviser le contrôle de maths</text>
