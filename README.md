@@ -14,4 +14,12 @@ Learn@Home met en relation des élèves en difficulté scolaire avec des tuteurs
 
 Les fichiers `apercu.html` permettent de voir les diagrammes et les maquettes dans un navigateur.
 
-Le Kanban est sur Notion, colonne ANALYZE.
+## Liens
+
+| Outil | Lien |
+| --- | --- |
+| Maquettes Figma | https://www.figma.com/design/qfhqFWA4aOskvhas3orlmL |
+| Prototype Figma | https://www.figma.com/proto/qfhqFWA4aOskvhas3orlmL |
+| Kanban Notion, colonne ANALYZE | https://app.notion.com/p/406166b5b2528104b9cccd030e051450 |
+
+Le prototype a deux parcours, élève et bénévole, en desktop et en mobile.
