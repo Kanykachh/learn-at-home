@@ -18,8 +18,8 @@ Les fichiers `apercu.html` permettent de voir les diagrammes et les maquettes da
 
 | Outil | Lien |
 | --- | --- |
-| Maquettes Figma | https://www.figma.com/design/qfhqFWA4aOskvhas3orlmL |
+| Maquettes Figma | https://www.figma.com/design/qfhqFWA4aOskvhas3orlmL/Learn-Home-%E2%80%93-Maquettes?node-id=0-1 |
 | Prototype Figma | https://www.figma.com/proto/qfhqFWA4aOskvhas3orlmL |
-| Kanban Notion, colonne ANALYZE | https://app.notion.com/p/406166b5b2528104b9cccd030e051450 |
+| Kanban Notion, colonne ANALYZE | https://sleet-yellowhorn-f5d.notion.site/7cc1b73cc5d74a6ba4697716fce793a0?v=406166b5b25281c7ba31000cffe86d9f |
 
 Le prototype a deux parcours, élève et bénévole, en desktop et en mobile.
