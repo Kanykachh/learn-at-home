@@ -8,6 +8,10 @@
   <rect x="40" y="110" width="200" height="70" rx="14" fill="#FAF7F2" stroke="#1E3A5F" stroke-width="1.5"/>
   <text x="140.0" y="143.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Mot de passe oublié</text>
   <text x="140.0" y="165.0" font-size="12" fill="#6B7280" text-anchor="middle">fenêtre sur la connexion</text>
+  <rect x="290" y="110" width="180" height="70" rx="14" fill="#FAF7F2" stroke="#1E3A5F" stroke-width="1.5"/>
+  <text x="380.0" y="143.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">E-mail envoyé</text>
+  <text x="380.0" y="165.0" font-size="12" fill="#6B7280" text-anchor="middle">confirmation</text>
+  <line x1="240" y1="145" x2="286" y2="145" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
   <rect x="40" y="420" width="200" height="70" rx="14" fill="#FAF7F2" stroke="#1E3A5F" stroke-width="1.5" stroke-dasharray="6 5"/>
   <text x="140.0" y="453.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Création de compte</text>
   <text x="140.0" y="475.0" font-size="12" fill="#6B7280" text-anchor="middle">à préciser avec le client</text>
@@ -15,7 +19,7 @@
   <line x1="140" y1="340" x2="140" y2="416" stroke="#1E3A5F" stroke-width="1.8" stroke-dasharray="6 5" marker-end="url(#fleche)"/>
   <rect x="420" y="260" width="220" height="80" rx="14" fill="#E6EDF5" stroke="#1E3A5F" stroke-width="1.5"/>
   <text x="530.0" y="298.0" font-size="16" fill="#1E3A5F" font-weight="700" text-anchor="middle">Tableau de bord</text>
-  <text x="530.0" y="320.0" font-size="12" fill="#6B7280" text-anchor="middle">page principale</text>
+  <text x="530.0" y="320.0" font-size="12" fill="#6B7280" text-anchor="middle">élève ou bénévole</text>
   <line x1="240" y1="300" x2="416" y2="300" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
   <rect x="255.0" y="289.0" width="146.0" height="22" rx="11" fill="#FFFFFF"/>
   <text x="328.0" y="304.0" font-size="12" fill="#6B7280" text-anchor="middle">identifiants valides</text>
@@ -37,9 +41,10 @@
   <line x1="640" y1="315" x2="856" y2="455" stroke="#1E3A5F" stroke-width="1.8" marker-end="url(#fleche)"/>
   <rect x="655.5" y="374.0" width="185.0" height="22" rx="11" fill="#FFFFFF"/>
   <text x="748.0" y="389.0" font-size="12" fill="#6B7280" text-anchor="middle">« Voir toutes les tâches »</text>
-  <rect x="420" y="540" width="660" height="64" rx="12" fill="#FAF7F2"/>
-  <text x="440" y="568" font-size="14" fill="#1F2937">Menu présent sur toutes les pages connectées : barre latérale sur ordinateur,</text>
-  <text x="440" y="590" font-size="14" fill="#1F2937">barre en bas de l&#x27;écran sur mobile. Il mène aux quatre pages à tout moment.</text>
+  <rect x="420" y="520" width="660" height="92" rx="12" fill="#FAF7F2"/>
+  <text x="440" y="548" font-size="14" fill="#1F2937">Menu présent sur toutes les pages connectées : barre latérale sur ordinateur,</text>
+  <text x="440" y="570" font-size="14" fill="#1F2937">barre en bas de l&#x27;écran sur mobile. Il mène aux quatre pages à tout moment.</text>
+  <text x="440" y="592" font-size="14" fill="#1F2937">Le logo ramène au tableau de bord, « Se déconnecter » ramène à la connexion.</text>
   <text x="40" y="580" font-size="13" fill="#6B7280">Sans connexion, toute page renvoie vers la connexion.</text>
   <text x="40" y="602" font-size="13" fill="#6B7280">En pointillés : parcours dont le contenu reste à préciser.</text>
 </svg>

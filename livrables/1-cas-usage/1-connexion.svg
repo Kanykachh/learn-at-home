@@ -1,39 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="508" viewBox="0 0 1000 508" font-family="Arial, Helvetica, sans-serif" fill="#222">
-  <rect width="1000" height="508" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="590" viewBox="0 0 1000 590" font-family="Arial, Helvetica, sans-serif" fill="#222">
+  <rect width="1000" height="590" fill="#fff"/>
   <text x="40" y="48" font-size="24" font-weight="bold">Learn@Home — Page de connexion</text>
   <text x="40" y="76" font-size="14" fill="#666">Diagramme de cas d'usage</text>
-  <rect x="270" y="100" width="460" height="306" rx="10" fill="none" stroke="#C9485B" stroke-width="2"/>
+  <rect x="270" y="100" width="460" height="388" rx="10" fill="none" stroke="#C9485B" stroke-width="2"/>
   <text x="500" y="122" text-anchor="middle" font-size="14" fill="#C9485B">Site Learn@Home</text>
-  <line x1="140" y1="259.0" x2="285" y2="191.0" stroke="#555" stroke-width="1.5"/>
-  <line x1="860" y1="259.0" x2="715" y2="191.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="140" y1="300.0" x2="285" y2="191.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="300.0" x2="715" y2="191.0" stroke="#555" stroke-width="1.5"/>
   <ellipse cx="500" cy="191.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
   <text x="500" y="196.0" text-anchor="middle" font-size="15">Se connecter avec son e-mail et son mot de passe</text>
-  <line x1="140" y1="259.0" x2="285" y2="273.0" stroke="#555" stroke-width="1.5"/>
-  <line x1="860" y1="259.0" x2="715" y2="273.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="140" y1="300.0" x2="285" y2="273.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="300.0" x2="715" y2="273.0" stroke="#555" stroke-width="1.5"/>
   <ellipse cx="500" cy="273.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
   <text x="500" y="278.0" text-anchor="middle" font-size="15">Récupérer un mot de passe oublié</text>
-  <line x1="140" y1="259.0" x2="285" y2="355.0" stroke="#555" stroke-width="1.5"/>
-  <line x1="860" y1="259.0" x2="715" y2="355.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="140" y1="300.0" x2="285" y2="355.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="300.0" x2="715" y2="355.0" stroke="#555" stroke-width="1.5"/>
   <ellipse cx="500" cy="355.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
   <text x="500" y="360.0" text-anchor="middle" font-size="15">Accéder à la création de compte</text>
+  <line x1="140" y1="300.0" x2="285" y2="437.0" stroke="#555" stroke-width="1.5"/>
+  <line x1="860" y1="300.0" x2="715" y2="437.0" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="500" cy="437.0" rx="215" ry="30" fill="#FDECEE" stroke="#C9485B" stroke-width="1.5"/>
+  <text x="500" y="442.0" text-anchor="middle" font-size="15">Se déconnecter</text>
 
   <g stroke="#333" stroke-width="2" fill="none">
-    <circle cx="110" cy="231.0" r="14" fill="#fff"/>
-    <line x1="110" y1="245.0" x2="110" y2="283.0"/>
-    <line x1="88" y1="259.0" x2="132" y2="259.0"/>
-    <line x1="110" y1="283.0" x2="92" y2="315.0"/>
-    <line x1="110" y1="283.0" x2="128" y2="315.0"/>
+    <circle cx="110" cy="272.0" r="14" fill="#fff"/>
+    <line x1="110" y1="286.0" x2="110" y2="324.0"/>
+    <line x1="88" y1="300.0" x2="132" y2="300.0"/>
+    <line x1="110" y1="324.0" x2="92" y2="356.0"/>
+    <line x1="110" y1="324.0" x2="128" y2="356.0"/>
   </g>
-  <text x="110" y="341.0" text-anchor="middle" font-size="17" font-weight="bold">Élève</text>
+  <text x="110" y="382.0" text-anchor="middle" font-size="17" font-weight="bold">Élève</text>
 
   <g stroke="#333" stroke-width="2" fill="none">
-    <circle cx="890" cy="231.0" r="14" fill="#fff"/>
-    <line x1="890" y1="245.0" x2="890" y2="283.0"/>
-    <line x1="868" y1="259.0" x2="912" y2="259.0"/>
-    <line x1="890" y1="283.0" x2="872" y2="315.0"/>
-    <line x1="890" y1="283.0" x2="908" y2="315.0"/>
+    <circle cx="890" cy="272.0" r="14" fill="#fff"/>
+    <line x1="890" y1="286.0" x2="890" y2="324.0"/>
+    <line x1="868" y1="300.0" x2="912" y2="300.0"/>
+    <line x1="890" y1="324.0" x2="872" y2="356.0"/>
+    <line x1="890" y1="324.0" x2="908" y2="356.0"/>
   </g>
-  <text x="890" y="341.0" text-anchor="middle" font-size="17" font-weight="bold">Bénévole</text>
-  <text x="40" y="446" font-size="14" fill="#444">• Les autres pages ne sont accessibles qu&#x27;une fois connecté.</text>
-  <text x="40" y="472" font-size="14" fill="#444">• Contenu de la création de compte : à préciser avec Learn@Home.</text>
+  <text x="890" y="382.0" text-anchor="middle" font-size="17" font-weight="bold">Bénévole</text>
+  <text x="40" y="528" font-size="14" fill="#444">• Les autres pages ne sont accessibles qu&#x27;une fois connecté.</text>
+  <text x="40" y="554" font-size="14" fill="#444">• Contenu de la création de compte : à préciser avec Learn@Home.</text>
 </svg>

@@ -11,6 +11,7 @@ Diagrammes : `1-connexion.svg` à `5-tableau-de-bord.svg`. Vue d'ensemble : `ape
 | Se connecter avec son e-mail et son mot de passe | oui | oui | Notes § 1, esquisse de connexion |
 | Récupérer un mot de passe oublié | oui | oui | Notes § 1 |
 | Accéder à la création de compte | oui | oui | Notes § 1, lien depuis la connexion |
+| Se déconnecter | oui | oui | Complément : pendant de la connexion, non cité dans les notes |
 
 Règle : les autres pages ne sont accessibles qu'une fois connecté. Le contenu de la création de compte reste à préciser (question 6).
 
