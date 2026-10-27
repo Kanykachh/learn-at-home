@@ -26,6 +26,10 @@
   <circle cx="38" cy="321" r="2" fill="#C9D6E5"/>
   <line x1="43" y1="321" x2="56" y2="321" stroke="#C9D6E5" stroke-width="2"/>
   <text x="72" y="321" font-size="16" fill="#FFFFFF">Tâches</text>
+  <path d="M44 750 H36 V770 H44" fill="none" stroke="#C9D6E5" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="42" y1="760" x2="55" y2="760" stroke="#C9D6E5" stroke-width="2"/>
+  <path d="M50 755 L55 760 L50 765" fill="none" stroke="#C9D6E5" stroke-width="2" stroke-linejoin="round"/>
+  <text x="72" y="766" font-size="15" fill="#C9D6E5">Se déconnecter</text>
   <line x1="24" y1="804" x2="224" y2="804" stroke="#2F5A86" stroke-width="1"/>
   <circle cx="52" cy="848" r="20" fill="#2F5A86"/>
   <text x="52" y="855.2" font-size="18.0" fill="#FFFFFF" font-weight="700" text-anchor="middle">JD</text>
